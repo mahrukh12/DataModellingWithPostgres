@@ -52,4 +52,6 @@ There is also an example of what a single song file, TRAABJL12903CDCF1A.json, lo
       "artist_name": "Line Renaud",
       "song_id": "SOUPIRU12A6D4FA1E1",
       "title": "Der Kleine Dompfaff",
+       "duration": 152.92036,
+      "year": 0
     }
